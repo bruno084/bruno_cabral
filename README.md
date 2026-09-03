@@ -1,9 +1,11 @@
 <div align="center">
 
 <h1>
+<strong>
 <font face="Arial Black, Arial, sans-serif">
 BRUNO CABRAL
 </font>
+</strong>
 </h1>
 
 ### `DESENVOLVEDOR EM FORMAÇÃO`
@@ -22,7 +24,7 @@ BRUNO CABRAL
 
 ---
 
-## SOBRE MIM
+# SOBRE MIM
 
 <div align="center">
 
@@ -53,7 +55,7 @@ BRUNO CABRAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="130">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="120" alt="Python">
 
 ### Minha principal linguagem de estudo
 
@@ -159,7 +161,7 @@ learning = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="80">
+<img src="https://skillicons.dev/icons?i=python" width="80" alt="Python">
 
 ## ANALISADOR DE PRODUTIVIDADE
 
@@ -173,7 +175,7 @@ os conhecimentos adquiridos durante meus estudos.
 <br><br>
 
 <a href="https://github.com/bruno084/analise_produtividade">
-<img src="https://img.shields.io/badge/ABRIR%20PROJETO-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" height="50">
+<img src="https://img.shields.io/badge/ABRIR%20PROJETO-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" height="50" alt="Abrir projeto">
 </a>
 
 </div>
@@ -184,13 +186,13 @@ os conhecimentos adquiridos durante meus estudos.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bruno084&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bruno084&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno084&layout=compact&hide_border=true&theme=github_dark">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno084&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bruno084&theme=github-dark-blue&hide_border=true" height="180">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bruno084&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak">
 
 </div>
 
@@ -211,18 +213,14 @@ os conhecimentos adquiridos durante meus estudos.
 <div align="center">
 
 <a href="https://github.com/bruno084">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="130" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="90" alt="GitHub">
 </a>
 
-        
+      
 
 <a href="https://www.linkedin.com/in/bruno-cabral-47049841a">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="130" alt="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="90" alt="LinkedIn">
 </a>
-
-<br><br>
-
-`GITHUB`      `LINKEDIN`
 
 </div>
 
