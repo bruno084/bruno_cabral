@@ -1,106 +1,240 @@
-# 👨‍💻 Bruno Cabral
+<div align="center">
 
-### `Desenvolvedor em formação • ADS • Python`
+# BRUNO CABRAL
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Aprendendo+Python+e+L%C3%B3gica;Construindo+projetos+evoluindo+todos+os+dias" alt="Typing SVG" />
-</p>
+### `DESENVOLVEDOR EM FORMAÇÃO`
 
----
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-## `01 // SOBRE MIM`
+<br>
 
-> 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-> 🐍 Atualmente focado em **Python e lógica de programação**
-> 🧑‍💻 **Desenvolvedor em formação**
-> 🚀 Aprendendo na prática através de projetos
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Estudando+Python;Construindo+meus+primeiros+projetos;Aprendendo+L%C3%B3gica+de+Programa%C3%A7%C3%A3o;Evoluindo+um+commit+de+cada+vez;Transformando+ideias+em+c%C3%B3digo" alt="Typing Animation">
 
-```python
-class Bruno:
+<br>
 
-    role = "Desenvolvedor em formação"
-    course = "Análise e Desenvolvimento de Sistemas"
-    focus = ["Python", "Lógica de Programação"]
-    currently_building = "Analisador de Produtividade"
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" height="75" alt="Tecnologias">
 
-    motto = "Code. Create. Evolve."
-```
+</div>
 
 ---
 
-## `02 // STACK`
+## SOBRE MIM
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF"/>
-</p>
-
----
-
-## `03 // CURRENTLY`
+<div align="center">
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  > learning Python...                  ✓    │
-│  > improving logic...                  ✓    │
-│  > practicing Git & GitHub...          ✓    │
-│  > building projects...                ✓    │
-│                                             │
-│  STATUS: LEARNING_MODE                     │
-│                                             │
-└─────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  BRUNO CABRAL                                      │
+│  Desenvolvedor em formação                         │
+│                                                    │
+│  Estudante de Análise e Desenvolvimento            │
+│  de Sistemas                                       │
+│                                                    │
+│  FOCO ATUAL                                        │
+│  Python · Lógica de Programação · Git · GitHub     │
+│                                                    │
+│  OBJETIVO                                          │
+│  Evoluir como desenvolvedor através de projetos    │
+│  e prática constante.                              │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# PYTHON
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="130">
+
+### Minha principal linguagem de estudo
+
+`VARIÁVEIS` · `OPERADORES` · `CONDIÇÕES` · `LOOPS` · `LÓGICA`
+
+</div>
+
+---
+
+## O QUE ESTOU APRENDENDO
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="170">
+
+<img src="https://skillicons.dev/icons?i=python" width="65">
+
+<br><br>
+
+<b>Python</b>
+
+<br>
+
+Linguagem principal
+
+</td>
+
+<td align="center" width="170">
+
+<img src="https://skillicons.dev/icons?i=git" width="65">
+
+<br><br>
+
+<b>Git</b>
+
+<br>
+
+Controle de versão
+
+</td>
+
+<td align="center" width="170">
+
+<img src="https://skillicons.dev/icons?i=github" width="65">
+
+<br><br>
+
+<b>GitHub</b>
+
+<br>
+
+Projetos e código
+
+</td>
+
+<td align="center" width="170">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="65">
+
+<br><br>
+
+<b>VS Code</b>
+
+<br>
+
+Ambiente de desenvolvimento
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+```python
+learning = {
+    "python": [
+        "Variáveis",
+        "Operadores",
+        "Condições",
+        "Estruturas de repetição",
+        "Lógica de programação"
+    ],
+
+    "tools": [
+        "Git",
+        "GitHub",
+        "VS Code"
+    ],
+
+    "status": "Em constante evolução"
+}
 ```
 
 ---
 
-## `04 // FEATURED PROJECT`
+# PROJETO EM DESTAQUE
 
-### 📊 Analisador de Produtividade
+<div align="center">
 
-Projeto principal desenvolvido durante minha jornada de aprendizado em programação.
+<img src="https://skillicons.dev/icons?i=python" width="80">
 
-O objetivo é colocar em prática os conhecimentos adquiridos em **Python e lógica de programação**, evoluindo o projeto conforme novos conceitos são aprendidos.
+## ANALISADOR DE PRODUTIVIDADE
 
-**Tecnologia:** `Python`
-**Status:** `🚧 Em desenvolvimento`
+Projeto desenvolvido em Python para colocar em prática
+os conhecimentos adquiridos durante meus estudos.
 
-<p>
-  <a href="https://github.com/bruno084/analise_produtividade">
-    <img src="https://img.shields.io/badge/VER%20PROJETO-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
-  </a>
-</p>
+<br>
 
----
+`PYTHON` · `LÓGICA` · `PROJETO PESSOAL` · `EM DESENVOLVIMENTO`
 
-## `05 // GITHUB`
+<br><br>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bruno084&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno084&layout=compact&hide_border=true&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117"/>
-</p>
+<a href="https://github.com/bruno084/analise_produtividade">
+<img src="https://img.shields.io/badge/ABRIR%20PROJETO-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" height="50">
+</a>
+
+</div>
 
 ---
 
-## `06 // CONNECT`
+# GITHUB ACTIVITY
 
-<p>
-  <a href="https://github.com/bruno084">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-cabral-47049841a">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-  </a>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bruno084&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno084&layout=compact&hide_border=true&theme=github_dark">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bruno084&theme=github-dark-blue&hide_border=true" height="180">
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
-</p>
+# CONTRIBUIÇÕES
 
-<p align="center">
-  <b>Code. Create. Evolve. 🚀</b>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bruno084&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Gráfico de contribuições">
+
+</div>
+
+---
+
+# CONECTE-SE
+
+<div align="center">
+
+<a href="https://github.com/bruno084">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22" height="65">
+</a>
+
+    
+
+<a href="https://www.linkedin.com/in/bruno-cabral-47049841a">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22" height="65">
+</a>
+
+<br><br>
+
+`CODE` · `LEARN` · `BUILD` · `EVOLVE`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE;BUILDING+NEW+PROJECTS;KEEP+LEARNING;KEEP+CODING" alt="Status Animation">
+
+<br>
+
+```text
+> SYSTEM ONLINE
+> USER: BRUNO084
+> ROLE: DEVELOPER IN TRAINING
+> STATUS: BUILDING
+```
+
+</div>
