@@ -2,9 +2,7 @@
 
 <h1>
 <strong>
-<font face="Arial Black, Arial, sans-serif">
 BRUNO CABRAL
-</font>
 </strong>
 </h1>
 
@@ -216,7 +214,7 @@ os conhecimentos adquiridos durante meus estudos.
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="90" alt="GitHub">
 </a>
 
-      
+        
 
 <a href="https://www.linkedin.com/in/bruno-cabral-47049841a">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="90" alt="LinkedIn">
